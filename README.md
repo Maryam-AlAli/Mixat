@@ -15,11 +15,9 @@ The audio content for Mixat was sourced from two podcasts produced by native Emi
   - ##### Mixat - Part 1:
     - Total sentences: 3,723
     - Code-switched sentences: 1,258
-    - Average CMI: 0.12
   - ##### Mixat -  Part 2:
     - Total sentences: 1,584
     - Code-switched sentences: 805
-    - Average CMI: 0.09
 
 ## Usage
 The Mixat dataset is publicly available for research purposes. Researchers interested in studying Emirati-English code-switching and developing ASR systems for this linguistic phenomenon can request access to the dataset by contacting us at maryam.alali@mbzuai.ac.ae.

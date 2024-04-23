@@ -12,11 +12,11 @@ The audio content for Mixat was sourced from two podcasts produced by native Emi
 - Percentage of code-switched sentences: 36%
 - Average Code Mixing Index (CMI): 0.11
 #### Breakdown by podcast:
-  - The Direction" (Part 1):
+  - ##### Mixat - Part 1:
     - Total sentences: 3,723
     - Code-switched sentences: 1,258
     - Average CMI: 0.12
-  - Think With Hessa" (Part 2):
+  - ##### Mixat -  Part 2:
     - Total sentences: 1,584
     - Code-switched sentences: 805
     - Average CMI: 0.09

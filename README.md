@@ -20,9 +20,13 @@ The audio content for Mixat was sourced from two podcasts produced by native Emi
     - Code-switched sentences: 805
 
 ## Usage
-The Mixat dataset is publicly available for research purposes. Researchers interested in studying Emirati-English code-switching and developing ASR systems for this linguistic phenomenon can request access to the dataset by contacting us at maryam.alali@mbzuai.ac.ae.
+The Mixat dataset is publicly available for research purposes. Researchers interested in studying Emirati-English code-switching and developing ASR systems for this linguistic phenomenon can request access to the dataset by contacting us at ([maryam.alali@mbzuai.ac.ae](mailto:maryam.alali@mbzuai.ac.ae)).
+
+## Acknowledgements
+
+Special thanks to Mr. Mohammad Al Awadhi, host of *The Direction* podcast, and Ms. Hessa Alsuwaidi, host of *Think With Hessa* podcast, for generously allowing us to use their content. Their support and cooperation were invaluable in creating the Mixat dataset and advancing research on Emirati speech.
 
 ## Contributors
-- Maryam Al Ali (maryam.alali@mbzuai.ac.ae)
-- Hanan Aldarmaki (hanan.aldarmaki@mbzuai.ac.ae)
-  
+
+- Maryam Al Ali ([maryam.alali@mbzuai.ac.ae](mailto:maryam.alali@mbzuai.ac.ae))
+- Hanan Aldarmaki ([hanan.aldarmaki@mbzuai.ac.ae](mailto:hanan.aldarmaki@mbzuai.ac.ae))

@@ -22,15 +22,9 @@ The audio content for Mixat was sourced from two podcasts produced by native Emi
     - Average CMI: 0.09
 
 ## Usage
-The Mixat dataset is publicly available for research use. Researchers interested in studying Emirati-English code-switching and developing ASR systems for this linguistic phenomenon can access the dataset through [insert link].
-
-## Citation
-If you use the Mixat dataset in your research, please cite the following paper:
-
+The Mixat dataset is publicly available for research purposes. Researchers interested in studying Emirati-English code-switching and developing ASR systems for this linguistic phenomenon can request access to the dataset by contacting us at maryam.alali@mbzuai.ac.ae.
 
 ## Contributors
 - Maryam Al Ali (maryam.alali@mbzuai.ac.ae)
 - Hanan Aldarmaki (hanan.aldarmaki@mbzuai.ac.ae)
-
-## License
-This dataset is released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). See the LICENSE file for details.
+  
